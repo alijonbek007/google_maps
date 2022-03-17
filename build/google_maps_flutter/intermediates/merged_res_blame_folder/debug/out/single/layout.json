@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/alijon/screen/homework2/google_maps/build/google_maps_flutter/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/alijon/.gradle/caches/transforms-2/files-2.1/5f663b08eec19eef9a9d1af662d9025e/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    }
+]

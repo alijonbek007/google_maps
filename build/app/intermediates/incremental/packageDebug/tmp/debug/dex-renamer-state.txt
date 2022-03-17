@@ -1,0 +1,4 @@
+#Wed Feb 02 00:25:08 UZT 2022
+base.0=/home/alijon/screen/homework2/google_maps/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
